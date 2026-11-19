@@ -1,4 +1,4 @@
-# 心連興 heart2thriving 官方主站內容地圖
+# 心連興 heart2thriving 官網內容地圖
 心連興 Heart 2 Thriving｜專注於 Pre-IPO 合規輔導、ERP 系統選型與導入、企業數位轉型、SEO／GEO 搜尋引擎優化與流程 AI 化的實戰型顧問團隊。
 這個專案整理 [heart2thriving.com](https://heart2thriving.com/) 的內容規劃：網站有哪些頁面、每一頁負責回答什麼問題、已經完成什麼、接下來要做什麼。給想快速了解心連興的人、以及想找對應文章的讀者。
 
